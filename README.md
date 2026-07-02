@@ -1,11 +1,11 @@
 <!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=SRINIVASAN%20A&fontColor=00F5FF&fontSize=58&animation=twinkling&desc=🌐%20Full%20Stack%20Web%20Developer%20|%20AI%20Developer%20|%20Cybersecurity%20Enthusiast&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=SRINIVASAN%20A&fontColor=00F5FF&fontSize=58&animation=twinkling&desc=🌐%20Full%20Stack%20Developer%20|%20AI%20Developer%20|%20Cybersecurity%20Enthusiast&descSize=20"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Artificial+Intelligence+Developer;Cybersecurity+Learner;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI+Developer;Building+Modern+Web+Applications;Cybersecurity+Learner;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -16,25 +16,26 @@
 Name: Srinivasan A
 
 Role:
-   Full Stack Web Developer
+  Full Stack Web Developer
 
-Education:
-   B.Tech CSE
-   SRM Institute of Science and Technology
+College:
+  SRM Institute of Science and Technology
 
 Specialization:
-   • Full Stack Development
-   • React & Next.js
-   • TypeScript
-   • Python
-   • Artificial Intelligence
-   • Cybersecurity
+  • React
+  • Next.js
+  • TypeScript
+  • Node.js
+  • Express
+  • Python
+  • Artificial Intelligence
+  • Cybersecurity
 
-Currently Working On:
-   • AI Web Applications
-   • 3D Interactive Websites
-   • MERN Stack
-   • Agentic AI
+Currently Building:
+  • AI Web Applications
+  • MERN Stack Projects
+  • 3D Interactive Websites
+  • Smart Automation Systems
 ```
 
 ---
@@ -42,47 +43,27 @@ Currently Working On:
 # 🚀 Featured Projects
 
 ### ☕ Ambi's Cafe
-> 3D Interactive Restaurant Website with WhatsApp Integration, Instagram, Food Safety Certificates and Premium UI
-
----
+Interactive 3D Restaurant Website with WhatsApp, Instagram Integration & Premium UI
 
 ### 🛒 RJ Boutique Ecommerce
-> AI-powered Ecommerce Platform with Smart Recommendation Engine, Admin Dashboard & Chatbot
+AI-powered Ecommerce Platform with Chatbot & Smart Recommendations
 
----
-
-### 🛡 Fraud Detection with AI
-> AI-based Spam & Fraud Detection System using Machine Learning
-
----
-
-### 🏥 MedAlton
-> Healthcare Hackathon Project with Smart Medical Features
-
----
-
-### 🧠 NeuroLearn
-> AI Learning Platform built for Hackathons
-
----
+### 🛡 Fraud Detection using AI
+Machine Learning based Fraud & Spam Detection
 
 ### 🚓 APEX HQ
-> Crime Monitoring & Image Analysis Platform
+Crime Monitoring & Image Analysis Platform
 
----
+### 🏥 MedAlton
+Healthcare Hackathon Solution
+
+### 🧠 NeuroLearn
+AI Learning Platform
 
 ### 🎓 Rural Education Platform
-> Smart Digital Education Platform
+Digital Learning System
 
----
-
-### 💼 3D Portfolio
-> Modern Interactive Portfolio Website
-
----
-
-### 📝 D3CDRS Blog
-> Blogging Platform built using TypeScript
+### 💼 Interactive 3D Portfolio
 
 ---
 
@@ -114,21 +95,11 @@ Currently Working On:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madarasrini&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/madarasrini/madarasrini/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madarasrini&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -138,17 +109,17 @@ Currently Working On:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=madarasrini&theme=algolia&row=2&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=madarasrini&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🛠 Tools I Use
+# 🛠 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,npm,linux"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,linux,npm"/>
 
 </p>
 
@@ -162,11 +133,11 @@ Currently Working On:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/srinivasan-a-412283312">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:madarasrini@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -174,21 +145,15 @@ Currently Working On:
 
 ---
 
-# ⚡ Developer Quote
+# 💡 Developer Philosophy
 
 ```javascript
-while(alive){
-
-   Learn();
-
-   Build();
-
-   Deploy();
-
-   Inspire();
-
-   Repeat();
-
+while (alive) {
+    Learn();
+    Build();
+    Solve();
+    Deploy();
+    Repeat();
 }
 ```
 
@@ -196,12 +161,12 @@ while(alive){
 
 <p align="center">
 
-### 🚀 "Turning Ideas into Intelligent Web Experiences."
+### ⚡ "Crafting Intelligent Web Experiences with AI."
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=madarasrini&style=for-the-badge&color=00F5FF"/>
+<img src="https://komarev.com/ghpvc/?username=madarasrini&label=Profile+Views&style=for-the-badge&color=00F7FF"/>
 
 </p>
