@@ -1,64 +1,60 @@
-<div align="center">
-
 # 👋 Hi, I'm Srinivasan A
 
-### Full Stack Web Developer • AI Developer • Cybersecurity Enthusiast
+<p align="center">
+<img src="assets/banner.png" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;Artificial+Intelligence+Developer;Always+Learning+Something+New"/>
-
-<img src="https://komarev.com/ghpvc/?username=madarasrini&label=Profile+Views&style=flat-square"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI+Developer;TypeScript+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Experiences"/>
+</p>
 
 ---
 
 # 💫 About Me
 
-💻 Full Stack Web Developer passionate about building scalable and modern web applications.
+```yaml
+Name: Srinivasan A
 
-🤖 Interested in Artificial Intelligence, Web Technologies and Cybersecurity.
+Role:
+  Full Stack Web Developer
 
-🚀 Love creating AI-powered platforms that solve real-world problems.
+Focus:
+  • Modern Web Applications
+  • AI Powered Applications
+  • TypeScript
+  • React
+  • Next.js
+  • Node.js
 
-🎓 B.Tech Computer Science Engineering
-
-🏫 SRM Institute of Science and Technology
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/madarasrini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/srinivasan-a-412283312">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:madarasrini@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+Currently:
+  Building scalable full-stack applications.
+```
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| ☕ Ambi's Cafe | 3D Interactive Restaurant Website |
-| 🛒 RJ Boutique Ecommerce | AI Powered Ecommerce Platform |
-| 🛡 Fraud Detection with AI | Spam & Fraud Detection using AI |
-| 🧠 NeuroLearn | AI Learning Platform |
-| 🏥 MedAlton | Healthcare Hackathon Project |
-| 🚓 APEX HQ | Crime Monitoring Platform |
-| 🎓 Rural Education Platform | Smart Education Platform |
-| 🌐 3D Portfolio | Interactive Portfolio Website |
-| 📝 D3CDRS Blog | Modern Blogging Platform |
+☕ **Ambi's Cafe**
+> 3D Interactive Restaurant Website
+
+🛒 **RJ Boutique Ecommerce**
+> AI Powered Ecommerce Platform
+
+🛡 **Fraud Detection with AI**
+> Spam & Fraud Detection System
+
+🏥 **MedAlton**
+> Healthcare Platform
+
+🧠 **NeuroLearn**
+> AI Learning Platform
+
+🚓 **APEX HQ**
+> Crime Monitoring System
+
+🎓 **Rural Education Platform**
+
+📝 **D3CDRS Blog**
 
 ---
 
@@ -66,25 +62,25 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,mongodb,mysql,firebase,git,github,vscode,figma,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,express,python,mongodb,mysql,firebase,git,github,docker,vscode,figma,postman"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madarasrini&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madarasrini&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madarasrini&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madarasrini&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=madarasrini&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=madarasrini&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,70 +90,50 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madarasrini&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madarasrini&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=madarasrini&theme=onedark&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=madarasrini&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-# 🛠️ Development Tools
+# 🛠 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,npm,linux"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,docker,linux"/>
 
 </p>
 
 ---
 
-# 📌 Currently Working On
+# 🌐 Connect With Me
 
-✅ AI Powered Web Applications
+<p align="center">
 
-✅ Full Stack Development
+<a href="https://github.com/madarasrini">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-✅ React & Next.js
+<a href="https://www.linkedin.com/in/srinivasan-a-412283312">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-✅ TypeScript
+<a href="mailto:madarasrini@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
 
-✅ Cybersecurity
-
----
-
-# ✨ Fun Fact
-
-```javascript
-const developer = {
-    name: "Srinivasan A",
-    role: "Full Stack Web Developer",
-    code: ["JavaScript", "TypeScript", "Python"],
-    technologies: ["React", "Next.js", "Node.js", "MongoDB"],
-    currentFocus: "Building AI-powered Web Applications"
-};
-
-while(true){
-    learn();
-    build();
-    innovate();
-}
-```
+</p>
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Turning Ideas into Beautiful Digital Experiences."*
-
-</div>
+> **"Turning Ideas into Intelligent Web Experiences."**
