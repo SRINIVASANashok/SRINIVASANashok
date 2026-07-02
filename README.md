@@ -1,108 +1,207 @@
-# 🌌 Neon Animated Banner
+<!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:00FFFF,50:FF00FF,75:00FF7F,100:00BFFF&height=280&section=header&text=Srinivasan%20A&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20•%20Cybersecurity%20•%20Open%20Source&descSize=20&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=SRINIVASAN%20A&fontColor=00F5FF&fontSize=58&animation=twinkling&desc=🌐%20Full%20Stack%20Web%20Developer%20|%20AI%20Developer%20|%20Cybersecurity%20Enthusiast&descSize=20"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+GitHub+Universe;💻+AI+Developer;🌐+Full+Stack+Engineer;🔐+Cybersecurity+Enthusiast;⚡+Building+the+Future+with+Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Artificial+Intelligence+Developer;Cybersecurity+Learner;Always+Building+Something+New"/>
 </p>
 
 ---
 
-# 🏅 Holopin Achievement Badges
+# 👨‍💻 About Me
+
+```yaml
+Name: Srinivasan A
+
+Role:
+   Full Stack Web Developer
+
+Education:
+   B.Tech CSE
+   SRM Institute of Science and Technology
+
+Specialization:
+   • Full Stack Development
+   • React & Next.js
+   • TypeScript
+   • Python
+   • Artificial Intelligence
+   • Cybersecurity
+
+Currently Working On:
+   • AI Web Applications
+   • 3D Interactive Websites
+   • MERN Stack
+   • Agentic AI
+```
+
+---
+
+# 🚀 Featured Projects
+
+### ☕ Ambi's Cafe
+> 3D Interactive Restaurant Website with WhatsApp Integration, Instagram, Food Safety Certificates and Premium UI
+
+---
+
+### 🛒 RJ Boutique Ecommerce
+> AI-powered Ecommerce Platform with Smart Recommendation Engine, Admin Dashboard & Chatbot
+
+---
+
+### 🛡 Fraud Detection with AI
+> AI-based Spam & Fraud Detection System using Machine Learning
+
+---
+
+### 🏥 MedAlton
+> Healthcare Hackathon Project with Smart Medical Features
+
+---
+
+### 🧠 NeuroLearn
+> AI Learning Platform built for Hackathons
+
+---
+
+### 🚓 APEX HQ
+> Crime Monitoring & Image Analysis Platform
+
+---
+
+### 🎓 Rural Education Platform
+> Smart Digital Education Platform
+
+---
+
+### 💼 3D Portfolio
+> Modern Interactive Portfolio Website
+
+---
+
+### 📝 D3CDRS Blog
+> Blogging Platform built using TypeScript
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
-<a href="https://holopin.io/@YOUR_USERNAME">
-<img src="https://holopin.me/YOUR_USERNAME" width="850">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,mongodb,mysql,firebase,git,github,docker,vscode,figma,postman"/>
 
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madarasrini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madarasrini&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=madarasrini&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madarasrini&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/madarasrini/madarasrini/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=madarasrini&theme=algolia&row=2&column=4&no-frame=true"/>
+
+</p>
+
+---
+
+# 🛠 Tools I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,npm,linux"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/madarasrini">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
-> Replace **YOUR_USERNAME** with your Holopin username.
-
 ---
 
-# 🚀 3D GitHub Contributions
+# ⚡ Developer Quote
 
-<p align="center">
+```javascript
+while(alive){
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+   Learn();
 
-</p>
+   Build();
 
----
+   Deploy();
 
-# 📊 3D GitHub Stats
+   Inspire();
 
-<p align="center">
+   Repeat();
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💫 Quote of the Day
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
+}
+```
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### 🚀 "Turning Ideas into Intelligent Web Experiences."
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=madarasrini&style=for-the-badge&color=00F5FF"/>
 
 </p>
