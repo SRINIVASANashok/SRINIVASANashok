@@ -84,5 +84,5 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → DEPLOY
 ---
 
 <div align="center">
-  <img src="./assets/manga-footer.svg" width="100%" alt="Next chapter">
+  <img src="./assets/manga-footer.jpg" width="100%" alt="Thank you — next chapter">
 </div>
