@@ -46,7 +46,7 @@
 ## 04 — `CURRENTLY`
 
 ```text
-[████████████████░░░░] LEARNING
+STATUS: LEARNING
 
 ▸ Building AI-powered applications
 ▸ Improving full-stack architecture
