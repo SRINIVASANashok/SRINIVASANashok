@@ -14,7 +14,7 @@
 
 ---
 
-## 02 — `ARSENAL`
+## 02 — `SKILL SETS`
 
 <div align="center">
 
@@ -59,11 +59,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASANashok&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" height="165" alt="GitHub streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASANashok&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" height="165" alt="Live GitHub streak">
 
 <br><br>
 
-[View all GitHub activity →](https://github.com/SRINIVASANashok?tab=overview)
+[View my real GitHub contribution activity →](https://github.com/SRINIVASANashok?tab=overview)
 
 </div>
 
