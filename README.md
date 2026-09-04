@@ -59,11 +59,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASANashok&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" height="165" alt="Live GitHub streak">
+<img src="https://github.com/users/SRINIVASANashok/contributions" width="100%" alt="Srinivasan A's real GitHub contribution activity">
 
-<br><br>
+<br>
 
-[View my real GitHub contribution activity →](https://github.com/SRINIVASANashok?tab=overview)
+[Open my GitHub profile →](https://github.com/SRINIVASANashok)
 
 </div>
 
