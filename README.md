@@ -167,6 +167,6 @@ while (alive) {
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=madarasrini&label=Profile+Views&style=for-the-badge&color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=SRINIVASANashok&label=Profile+Views&style=for-the-badge&color=00F7FF"/>
 
 </p>
