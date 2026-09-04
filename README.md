@@ -45,15 +45,15 @@
 
 ## 04 — `CURRENTLY`
 
-```text
-STATUS: LEARNING
+<div align="center">
+  <img src="./assets/learning-progress.svg" width="100%" alt="Current learning and build progress">
+</div>
 
-▸ Building AI-powered applications
-▸ Improving full-stack architecture
-▸ Exploring intelligent automation
-▸ Experimenting with creative web experiences
+▸ Building AI-powered applications  
+▸ Improving full-stack architecture  
+▸ Exploring intelligent automation  
+▸ Experimenting with creative web experiences  
 ▸ Turning hackathon ideas into real products
-```
 
 ## 05 — `GITHUB ACTIVITY`
 
