@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="./profile.jpg" width="180" alt="Srinivasan A">
-</div>
-
-<div align="center">
 
 `FULL STACK DEVELOPER` · `AI BUILDER` · `CSE`
 
