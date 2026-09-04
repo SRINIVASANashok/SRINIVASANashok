@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+<title id="title">Current learning progress</title>
+<desc id="desc">A monochrome developer progress panel showing build mode and active learning.</desc>
+<rect width="900" height="150" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="898" height="148" rx="11" fill="none" stroke="#30363d"/>
+<text x="34" y="38" fill="#8b949e" font-family="monospace" font-size="12" letter-spacing="2">CURRENT STATUS</text>
+<text x="34" y="73" fill="#ffffff" font-family="monospace" font-size="24" font-weight="700">BUILD MODE</text>
+<text x="34" y="105" fill="#8b949e" font-family="monospace" font-size="12">AI  •  FULL STACK  •  AUTOMATION</text>
+<rect x="330" y="54" width="430" height="18" rx="9" fill="#21262d"/>
+<rect x="330" y="54" width="344" height="18" rx="9" fill="#ffffff"/>
+<circle cx="674" cy="63" r="7" fill="#ffffff" stroke="#0d1117" stroke-width="3"/>
+<text x="778" y="69" fill="#ffffff" font-family="monospace" font-size="20" font-weight="700">80%</text>
+<text x="330" y="98" fill="#8b949e" font-family="monospace" font-size="11">LEARNING</text>
+<text x="428" y="98" fill="#8b949e" font-family="monospace" font-size="11">→</text>
+<text x="446" y="98" fill="#ffffff" font-family="monospace" font-size="11">BUILDING</text>
+<text x="548" y="98" fill="#8b949e" font-family="monospace" font-size="11">→</text>
+<text x="566" y="98" fill="#8b949e" font-family="monospace" font-size="11">DEPLOYING</text>
+<g fill="#ffffff">
+  <rect x="330" y="119" width="8" height="8" rx="2"/>
+  <rect x="346" y="119" width="8" height="8" rx="2" opacity=".75"/>
+  <rect x="362" y="119" width="8" height="8" rx="2" opacity=".5"/>
+</g>
+<text x="382" y="127" fill="#8b949e" font-family="monospace" font-size="10">NEXT CHAPTER LOADING</text>
+</svg>
