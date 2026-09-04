@@ -1,172 +1,210 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=SRINIVASAN%20A&fontColor=00F5FF&fontSize=58&animation=twinkling&desc=🌐%20Full%20Stack%20Developer%20|%20AI%20Developer%20|%20Cybersecurity%20Enthusiast&descSize=20"/>
-</p>
+# 𝑺𝑹𝑰𝑵𝑰𝑽𝑨𝑺𝑨𝑵 𝑨
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;AI+Developer;Building+Modern+Web+Applications;Cybersecurity+Learner;Always+Learning+New+Technologies"/>
-</p>
+### `FULL STACK DEVELOPER` · `AI BUILDER` · `CSE`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=BUILD.+BREAK.+LEARN.+REPEAT.;TURNING+IDEAS+INTO+WORKING+SYSTEMS.;FULL+STACK+%2B+AI+%2B+CREATIVE+WEB." alt="Typing SVG" />
+
+<br>
+
+> **「 The code is only the beginning. 」**
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 01 — `WHO AM I`
 
-```yaml
-Name: Srinivasan A
+```text
+Srinivasan A
 
-Role:
-  Full Stack Web Developer
+Full Stack Web Developer
+Computer Science Engineering
 
-College:
-  SRM Institute of Science and Technology
+I build web applications that combine
+clean interfaces, intelligent systems
+and practical problem solving.
 
-Specialization:
-  • React
-  • Next.js
-  • TypeScript
-  • Node.js
-  • Express
-  • Python
-  • Artificial Intelligence
-  • Cybersecurity
-
-Currently Building:
-  • AI Web Applications
-  • MERN Stack Projects
-  • 3D Interactive Websites
-  • Smart Automation Systems
+Currently exploring:
+→ Artificial Intelligence
+→ Full Stack Development
+→ Interactive / 3D Web
+→ Automation
+→ Cybersecurity
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 02 — `ARSENAL`
 
-### ☕ Ambi's Cafe
-Interactive 3D Restaurant Website with WhatsApp, Instagram Integration & Premium UI
+<div align="center">
 
-### 🛒 RJ Boutique Ecommerce
-AI-powered Ecommerce Platform with Chatbot & Smart Recommendations
+### DEVELOPMENT
 
-### 🛡 Fraud Detection using AI
-Machine Learning based Fraud & Spam Detection
+`JavaScript` `TypeScript` `React` `Next.js`
+`Node.js` `Express` `Python` `HTML` `CSS`
 
-### 🚓 APEX HQ
-Crime Monitoring & Image Analysis Platform
+### AI / DATA
 
-### 🏥 MedAlton
-Healthcare Hackathon Solution
+`Artificial Intelligence` `Machine Learning`
+`Gemini API` `AI Applications` `Image Analysis`
 
-### 🧠 NeuroLearn
-AI Learning Platform
+### TOOLS
 
-### 🎓 Rural Education Platform
-Digital Learning System
+`Git` `GitHub` `Vercel` `VS Code`
+`Google AI Studio` `Figma`
 
-### 💼 Interactive 3D Portfolio
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 03 — `SELECTED WORK`
 
-<p align="center">
+### ◈ APEX-HQ
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,mongodb,mysql,firebase,git,github,docker,vscode,figma,postman"/>
+**Centralized crime monitoring & image analysis platform**
 
-</p>
+A system focused on crime monitoring, image analysis and intelligent investigation workflows.
 
----
+`AI` `Image Analysis` `Web Application`
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madarasrini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madarasrini&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=madarasrini&theme=tokyonight&hide_border=true"/>
-
-</p>
+→ **[VIEW PROJECT](https://github.com/SRINIVASANashok/APEX-HQ)**
 
 ---
 
-# 📈 GitHub Activity Graph
+### ◈ RJ BOUTIQUE
 
-<p align="center">
+**AI-powered e-commerce platform**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madarasrini&theme=tokyo-night&hide_border=true"/>
+An e-commerce system featuring an admin panel, AI chatbot and smart product recommendations.
 
-</p>
+`TypeScript` `AI` `E-Commerce` `Chatbot`
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=madarasrini&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
+→ **[VIEW PROJECT](https://github.com/SRINIVASANashok/rj-boutique-ecommerce)**
 
 ---
 
-# 🛠 Tools
+### ◈ FRAUD DETECTION
 
-<p align="center">
+**AI-based fraud & spam detection**
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,linux,npm"/>
+Built to identify potentially fraudulent and vulnerable spam messages using AI-driven analysis.
 
-</p>
+`AI` `Machine Learning` `Security`
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/madarasrini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/srinivasan-a-412283312">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:madarasrini@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+→ **[VIEW PROJECT](https://github.com/SRINIVASANashok/fraud-detection-with-AI)**
 
 ---
 
-# 💡 Developer Philosophy
+### ◈ NEUROLEARN
 
-```javascript
-while (alive) {
-    Learn();
-    Build();
-    Solve();
-    Deploy();
-    Repeat();
-}
+**AI learning platform**
+
+An experimental learning platform developed for hackathon-based problem solving and intelligent education experiences.
+
+`AI` `TypeScript` `Education`
+
+→ **[VIEW PROJECT](https://github.com/SRINIVASANashok/NeuroLearn)**
+
+---
+
+### ◈ MEDAITON
+
+**Healthcare hackathon solution**
+
+A healthcare-focused project developed as part of a hackathon challenge.
+
+`AI` `Healthcare` `Hackathon`
+
+→ **[VIEW PROJECT](https://github.com/SRINIVASANashok/MedAIton-final)**
+
+---
+
+## 04 — `CURRENTLY`
+
+```text
+[████████████████░░░░] Learning
+
+▸ Building AI-powered applications
+▸ Improving full-stack architecture
+▸ Exploring intelligent automation
+▸ Experimenting with creative web experiences
+▸ Turning hackathon ideas into real products
 ```
 
 ---
 
-<p align="center">
+## 05 — `GITHUB`
 
-### ⚡ "Crafting Intelligent Web Experiences with AI."
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SRINIVASANashok&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="165">
 
-<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASANashok&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" height="165">
 
-<img src="https://komarev.com/ghpvc/?username=SRINIVASANashok&label=Profile+Views&style=for-the-badge&color=00F7FF"/>
+</div>
 
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASANashok&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="95%">
+
+</div>
+
+---
+
+## 06 — `PHILOSOPHY`
+
+<div align="center">
+
+```text
+          ┌─────────────────────────┐
+          │                         │
+          │       LEARN             │
+          │          ↓              │
+          │       BUILD             │
+          │          ↓              │
+          │       BREAK             │
+          │          ↓              │
+          │       DEBUG             │
+          │          ↓              │
+          │       IMPROVE            │
+          │          ↓              │
+          │       DEPLOY             │
+          │                         │
+          └─────────────────────────┘
+```
+
+### `「 DON'T JUST WRITE CODE. BUILD SOMETHING THAT MATTERS. 」`
+
+</div>
+
+---
+
+## 07 — `CONNECT`
+
+<div align="center">
+
+**Portfolio**
+
+[ e-portfoliosrinivasan.vercel.app ](https://e-portfoliosrinivasan.vercel.app/)
+
+**GitHub**
+
+[ github.com/SRINIVASANashok ](https://github.com/SRINIVASANashok)
+
+**Email**
+
+`madarasrini@gmail.com`
+
+<br>
+
+---
+
+### `ありがとうございました。`
+
+**KEEP BUILDING.**
+
+</div>
