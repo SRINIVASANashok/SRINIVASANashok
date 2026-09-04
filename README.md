@@ -14,10 +14,6 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/manga-profile.svg" width="100%" alt="Developer dossier">
-</div>
-
 ## 02 — `ARSENAL`
 
 <div align="center">
