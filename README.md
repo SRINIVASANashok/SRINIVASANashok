@@ -58,14 +58,13 @@
 ## 05 — `GITHUB ACTIVITY`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github/contributions.dark.svg">
-    <img src="./assets/github/contributions.light.svg" width="100%" alt="Real GitHub contribution activity for Srinivasan A">
-  </picture>
+  <a href="https://github.com/SRINIVASANashok">
+    <img src="https://ghchart.rshah.org/000000/SRINIVASANashok" width="100%" alt="Srinivasan A's real GitHub contribution calendar">
+  </a>
 
   <br>
 
-  <a href="https://github.com/SRINIVASANashok">View my GitHub profile →</a>
+  <a href="https://github.com/SRINIVASANashok?tab=overview">View my real GitHub activity →</a>
 </div>
 
 ---
