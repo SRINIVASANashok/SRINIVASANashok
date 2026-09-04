@@ -1,0 +1,26 @@
+name: Update GitHub Contributions
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  push:
+    paths:
+      - ".github/workflows/update-github-contributions.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate real contribution card
+        uses: seijikohara/profile-cards-action@v0.0.4
+        with:
+          username: SRINIVASANashok
+          cards: contributions
+          output-dir: assets/github
+          themes: light,dark
+          commit: true
+          commit-message: "chore(profile): update real GitHub contributions [skip ci]"
