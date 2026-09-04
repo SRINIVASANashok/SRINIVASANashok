@@ -59,16 +59,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SRINIVASANashok&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="165" alt="GitHub stats">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIVASANashok&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000" height="165" alt="GitHub streak">
 
-</div>
+<br><br>
 
-<br>
+[View all GitHub activity →](https://github.com/SRINIVASANashok?tab=overview)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRINIVASANashok&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="95%" alt="GitHub activity graph">
 </div>
 
 ---
